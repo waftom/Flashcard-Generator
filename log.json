@@ -1,0 +1,71 @@
+{
+    "FlashCard": [{
+        "text": "... is the best friend of men.",
+        "cloze": "Dob",
+        "type": "cloze"
+    }, {
+        "text": "... is a gay dog.",
+        "cloze": "Cat",
+        "type": "cloze"
+    }, {
+        "text": "London speaks ...",
+        "cloze": "english.",
+        "type": "cloze"
+    }, {
+        "text": "Brazil speaks ...",
+        "cloze": "portuguese.",
+        "type": "cloze"
+    }, {
+        "text": "... is opposite of dark.",
+        "cloze": "Light",
+        "type": "cloze"
+    }, {
+        "text": "Wet is the opposite of ...",
+        "cloze": "dry.",
+        "type": "cloze"
+    }, {
+        "text": "The opposite of live is ...",
+        "cloze": "die.",
+        "type": "cloze"
+    }, {
+        "text": "Bed is for sleep as well as clothes is for ...",
+        "cloze": "wear.",
+        "type": "cloze"
+    }, {
+        "text": "Japan speaks ...",
+        "cloze": "japanese.",
+        "type": "cloze"
+    }, {
+        "text": "When we are hungry we eat ...",
+        "cloze": "food.",
+        "type": "cloze"
+    }, {
+        "text": "Black is the opposite of ...",
+        "cloze": "white.",
+        "type": "cloze"
+    }, {
+        "text": "White is the opposite of ...",
+        "cloze": "black.",
+        "type": "cloze"
+    }, {
+        "text": "Michael Jackson was a ...",
+        "cloze": "singer.",
+        "type": "cloze"
+    }, {
+        "text": "George Washington was a ...",
+        "cloze": "president.",
+        "type": "cloze"
+    }, {
+        "text": "Spain speaks ...",
+        "cloze": "spanish.",
+        "type": "cloze"
+    }, {
+        "front": "In what continent is China?",
+        "back": "Asia",
+        "type": "basic"
+    }, {
+        "front": "Who was Bill Clinton?",
+        "back": "President",
+        "type": "basic"
+    }]
+}
